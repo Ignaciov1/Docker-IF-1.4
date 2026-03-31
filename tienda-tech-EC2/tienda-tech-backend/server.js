@@ -7,9 +7,9 @@ const PORT = process.env.PORT || 3001;
 
 const {
   DB_HOST = "db",
-  DB_USER = "alumno",
-  DB_PASSWORD = "alumno123",
-  DB_NAME = "tienda_tecnologica",
+  DB_USER = "admin",
+  DB_PASSWORD = "admin12345",
+  DB_NAME = "tiendatech",
   DB_PORT = 3306,
 } = process.env;
 
